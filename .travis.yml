@@ -1,4 +1,4 @@
 language: java
 sudo: false # faster builds
-before_install:
-- chmod +x mvnw 
+#before_install:
+#- chmod +x mvnw 
